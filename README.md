@@ -13,13 +13,18 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/ZoilaSanchez](https://github.com/ZoilaSanchez)
 
-- 📝 Mis Experiencias [He participado en HackFest organizados por URL Guatemala, Quetzaltenango. También he participado en competencias de programación de omegaUp](He participado en HackFest organizados por URL Guatemala, Quetzaltenango. También he participado en competencias de programación de omegaUp)
+- 📝 Mis Experiencias 
+    * 💻 He participado en HackFest organizados por URL Guatemala, Quetzaltenango. 
+    * 🏆También he participado en competencias de programación de omegaUp
 
 - 💬 Pregúntame sobre **Java, Js, Ruby, Go, api restfull**
 
 - 📫 Comunícate a **zesanchez1998@gmail.com**
 
-- 📄 Mis Habilitades [Soy fanatica del desarrollo back-end, especialmente en java o js. Me gusta trabajar en la arquitectura modelo-vista-controlador](Soy fanatica del desarrollo back-end, especialmente en java o js. Me gusta trabajar en la arquitectura modelo-vista-controlador)
+- 📄 Mis Habilitades 
+    * 🤖Soy fanatica del desarrollo back-end, especialmente en java o js 
+    * 💡Me gusta trabajar en la arquitectura modelo-vista-controlador
+
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
