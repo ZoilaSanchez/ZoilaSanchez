@@ -11,7 +11,7 @@
 
 - 🤝 He colaborado en [Tlaloc](https://github.com/BitJAKE/Tlaloc-Servidor) y [Colitas](https://github.com/danieltistoj/backend-hackfest2023)
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/ZoilaSanchez](https://github.com/ZoilaSanchez) ](https://github.com/ZoilaSanchez?tab=repositories) 
+- 👨‍💻 Todos mis proyectos están disponibles en [Repositorios](https://github.com/ZoilaSanchez?tab=repositories) 
 
 - 📝 Mis Experiencias 
     * 💻 He participado en HackFest organizados por URL Guatemala, Quetzaltenango. 
